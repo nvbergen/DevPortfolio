@@ -5,4 +5,4 @@ type: taxonomies
 layout: "home"
 ---
 
-Our Tags Collection
+ Our Tags Collection

@@ -5,16 +5,23 @@
     weight = 1
 
 [[main]]
+    identifier = "portfolio"
+    name = "Project Portfolio"
+    url = "/portfolio"
+    weight = 2
+
+[[main]]
     identifier = "about"
     name = "About me"
     url = "/about"
-    weight = 2
+    weight = 3
 
 [[main]]
     identifier = "categories"
     name = "Categories"
     url = "/categories"
-    weight = 3
+    weight = 4
+
 
 [[main]]
     identifier = "tags"
@@ -34,13 +41,13 @@
     identifier = "twitter"
     name = "Twitter"
     url = "#"
-    weight = 1
+    weight = 2
 
 [[social]]
     identifier = "instagram"
     name = "Instagram"
     url = "#"
-    weight = 2
+    weight = 9
 
 [[social]]
     identifier = "github"
