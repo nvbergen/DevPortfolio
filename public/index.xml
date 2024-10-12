@@ -7,14 +7,28 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Sat, 27 Aug 2022 09:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 09:41:46 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test_post</title>
+      <link>http://localhost:1313/posts/test_post/</link>
+      <pubDate>Sat, 12 Oct 2024 09:41:46 -0700</pubDate>
+      <guid>http://localhost:1313/posts/test_post/</guid>
+      <description>&lt;h1 id=&#34;the-first-test-is-where&#34;&gt;The first test is where?&lt;/h1&gt;&#xA;&lt;p&gt;so not yet&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Markdown Cheat Sheet</title>
       <link>http://localhost:1313/posts/markdown-cheat-sheet/</link>
       <pubDate>Sat, 27 Aug 2022 09:16:45 +0000</pubDate>
       <guid>http://localhost:1313/posts/markdown-cheat-sheet/</guid>
       <description>&lt;p&gt;This Markdown cheat sheet &lt;strong&gt;provides&lt;/strong&gt; a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic &lt;em&gt;syntax&lt;/em&gt; and extended syntax.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;h1 id=&#34;about-moi&#34;&gt;About MOI&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>

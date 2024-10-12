@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megadoomer - on Dumb Enhanced Lowkey Hugo</title>
+    <link>http://localhost:1313/tags/megadoomer--/</link>
+    <description>Recent content in Megadoomer - on Dumb Enhanced Lowkey Hugo</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Sat, 12 Oct 2024 09:41:46 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/megadoomer--/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test_post</title>
+      <link>http://localhost:1313/posts/test_post/</link>
+      <pubDate>Sat, 12 Oct 2024 09:41:46 -0700</pubDate>
+      <guid>http://localhost:1313/posts/test_post/</guid>
+      <description>&lt;h1 id=&#34;the-first-test-is-where&#34;&gt;The first test is where?&lt;/h1&gt;&#xA;&lt;p&gt;so not yet&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Sat, 27 Aug 2022 09:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 09:41:46 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sem Categoria</title>
+      <link>http://localhost:1313/categories/sem-categoria/</link>
+      <pubDate>Sat, 12 Oct 2024 09:41:46 -0700</pubDate>
+      <guid>http://localhost:1313/categories/sem-categoria/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hello</title>
       <link>http://localhost:1313/categories/hello/</link>
